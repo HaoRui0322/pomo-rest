@@ -1,0 +1,12 @@
+# Build output
+build/
+obj/
+bin/
+.vs/
+
+# Temporary / debug files
+*.tmp
+run-out.txt
+run-err.txt
+error.log
+*.corrupt-*
